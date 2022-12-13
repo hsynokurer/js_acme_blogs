@@ -1,12 +1,14 @@
 # Acme Blogs
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b9a45ca-2096-4a51-82eb-92b632ced389/deploy-status)](https://app.netlify.com/sites/earnest-tartufo-f59ffc/deploys)
+
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gitdagray/js_acme_blogs)
 
 **Start by clicking the Remix on Glitch button above.**
 
 _Once you are working with your own copy of the project on Glitch..._
 
-**Follow the directions available in Blackboard** 
+**Follow the directions available in Blackboard**
 
 _DO NOT CHANGE any of the pre-existing code. Your code only goes in main.js._
 
